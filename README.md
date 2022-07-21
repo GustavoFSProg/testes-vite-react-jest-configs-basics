@@ -1,0 +1,1 @@
+# testes-vite-react-jest-configs-basics
